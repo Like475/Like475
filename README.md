@@ -7,4 +7,4 @@
 
 My favorite repository:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Like475&repo=lilial)](https://github.com/Like475/lilial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Like475&repo=lilial&theme=github_dark)](https://github.com/Like475/lilial)
